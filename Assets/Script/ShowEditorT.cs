@@ -11,5 +11,7 @@ public class ShowEditorT : MonoBehaviour {
     [Multiline(5)]
     public string introduce;
 
+    public string path;
 
+    
 }
